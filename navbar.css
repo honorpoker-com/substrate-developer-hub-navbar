@@ -552,3 +552,7 @@
 #substrate-dev-hub-nav .navSearchWrapper:before {
 	box-sizing: unset;
 }
+
+#substrate-dev-hub-nav {
+    font-family: 'ManifoldCF','Helvetica','Arial', sans-serif;
+}
