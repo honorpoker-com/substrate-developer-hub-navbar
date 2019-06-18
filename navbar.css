@@ -1,4 +1,4 @@
-#substrate-dev-hub-nav a, #substrate-dev-hub-nav body, #substrate-dev-hub-nav div, #substrate-dev-hub-nav h1, #substrate-dev-hub-nav h2, #substrate-dev-hub-nav h3, #substrate-dev-hub-nav h4, #substrate-dev-hub-nav h5, #substrate-dev-hub-nav h6, #substrate-dev-hub-nav .substrate-dev-hub-nav-header, #substrate-dev-hub-nav html, #substrate-dev-hub-nav img, #substrate-dev-hub-nav li, #substrate-dev-hub-nav menu, #substrate-dev-hub-nav nav, #substrate-dev-hub-nav pre, #substrate-dev-hub-nav span, #substrate-dev-hub-nav ul {
+#substrate-dev-hub-nav a, #substrate-dev-hub-nav body, #substrate-dev-hub-nav div, #substrate-dev-hub-nav h1, #substrate-dev-hub-nav h2, #substrate-dev-hub-nav h3, #substrate-dev-hub-nav h4, #substrate-dev-hub-nav h5, #substrate-dev-hub-nav h6, #substrate-dev-hub-nav .substrate-dev-hub-nav-header, #substrate-dev-hub-nav html, #substrate-dev-hub-nav img, #substrate-dev-hub-nav li, #substrate-dev-hub-nav menu, #substrate-dev-hub-nav .slidingNav, #substrate-dev-hub-nav pre, #substrate-dev-hub-nav span, #substrate-dev-hub-nav ul {
 	border: 0;
 	font: inherit;
 	font-size: 100%;
@@ -410,7 +410,7 @@
 		position: relative;
 	}
 
-	#substrate-dev-hub-nav .navigationSlider nav.slidingNav {
+	#substrate-dev-hub-nav .navigationSlider .slidingNav {
 		background: 0 0;
 		height: auto;
 		position: relative;

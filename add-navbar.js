@@ -8,7 +8,7 @@ var substrate_developer_hub_navbar = `
                     <h2 class="headerTitleWithLogo">Substrate Developer Hub</h2>
                 </a>
                 <div class="navigationWrapper navigationSlider">
-                    <nav class="slidingNav">
+                    <div class="slidingNav">
                         <ul class="nav-site nav-site-internal">
                             <li class=""><a
                                     href="https://substrate-developer-hub.github.io/docs/en/quickstart/getting-started"
@@ -21,7 +21,7 @@ var substrate_developer_hub_navbar = `
                                     target="_self">Community</a></li>
                             <li class=""><a href="https://github.com/paritytech/substrate" target="_self">GitHub</a></li>
                         </ul>
-                    </nav>
+                    </div>
                 </div>
             </div>
         </div>
