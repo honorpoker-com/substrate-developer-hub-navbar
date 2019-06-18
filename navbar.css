@@ -1,4 +1,4 @@
-#substrate-dev-hub-nav a, #substrate-dev-hub-nav body, #substrate-dev-hub-nav div, #substrate-dev-hub-nav h1, #substrate-dev-hub-nav h2, #substrate-dev-hub-nav h3, #substrate-dev-hub-nav h4, #substrate-dev-hub-nav h5, #substrate-dev-hub-nav h6, #substrate-dev-hub-nav header, #substrate-dev-hub-nav html, #substrate-dev-hub-nav img, #substrate-dev-hub-nav li, #substrate-dev-hub-nav menu, #substrate-dev-hub-nav nav, #substrate-dev-hub-nav pre, #substrate-dev-hub-nav span, #substrate-dev-hub-nav ul {
+#substrate-dev-hub-nav a, #substrate-dev-hub-nav body, #substrate-dev-hub-nav div, #substrate-dev-hub-nav h1, #substrate-dev-hub-nav h2, #substrate-dev-hub-nav h3, #substrate-dev-hub-nav h4, #substrate-dev-hub-nav h5, #substrate-dev-hub-nav h6, #substrate-dev-hub-nav .substrate-dev-hub-nav-header, #substrate-dev-hub-nav html, #substrate-dev-hub-nav img, #substrate-dev-hub-nav li, #substrate-dev-hub-nav menu, #substrate-dev-hub-nav nav, #substrate-dev-hub-nav pre, #substrate-dev-hub-nav span, #substrate-dev-hub-nav ul {
 	border: 0;
 	font: inherit;
 	font-size: 100%;
@@ -161,19 +161,19 @@
 	z-index: 10000;
 }
 
-#substrate-dev-hub-nav .fixedHeaderContainer header {
+#substrate-dev-hub-nav .fixedHeaderContainer .substrate-dev-hub-nav-header {
 	display: flex;
 	flex-flow: row nowrap;
 	position: relative;
 	text-align: left;
 }
 
-#substrate-dev-hub-nav .fixedHeaderContainer header img {
+#substrate-dev-hub-nav .fixedHeaderContainer .substrate-dev-hub-nav-header img {
 	height: 100%;
 	margin-right: 10px;
 }
 
-#substrate-dev-hub-nav .fixedHeaderContainer header .headerTitleWithLogo {
+#substrate-dev-hub-nav .fixedHeaderContainer .substrate-dev-hub-nav-header .headerTitleWithLogo {
 	display: block;
 	font-size: 1.25em;
 	line-height: 18px;
@@ -182,7 +182,7 @@
 	z-index: 9999;
 }
 
-#substrate-dev-hub-nav .fixedHeaderContainer header h3 {
+#substrate-dev-hub-nav .fixedHeaderContainer .substrate-dev-hub-nav-header h3 {
 	color: #fff;
 	font-size: 16px;
 	margin: 0;

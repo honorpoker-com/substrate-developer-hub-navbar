@@ -2,7 +2,7 @@ var substrate_developer_hub_navbar = `
 <div id="substrate-dev-hub-nav">
     <div class="fixedHeaderContainer">
         <div class="headerWrapper wrapper">
-            <header><a href="https://substrate-developer-hub.github.io/en"><img class="logo"
+            <div class="substrate-dev-hub-nav-header"><a href="https://substrate-developer-hub.github.io/en"><img class="logo"
                         src="https://substrate-developer-hub.github.io/img/Substrate-logo.svg"
                         alt="Substrate Developer Hub">
                     <h2 class="headerTitleWithLogo">Substrate Developer Hub</h2>
@@ -23,7 +23,7 @@ var substrate_developer_hub_navbar = `
                         </ul>
                     </nav>
                 </div>
-            </header>
+            </div>
         </div>
     </div>
 </div>
